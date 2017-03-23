@@ -15,6 +15,9 @@ dev server.
 
 About
 -----
+Implements the core patch-based algorithm of
+[Featherstitch](http://featherstitch.cs.ucla.edu/publications/featherstitch-sosp07.pdf).
+
 The viewing area on the right displays patches currently sent to the kernel.
 Advancing and of the example applications on the left will send patches to the
 kernel (provided the file system has been initialized with mkfs).
